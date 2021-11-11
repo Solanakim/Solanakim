@@ -1,6 +1,10 @@
-💪Skills
+# Solana Kim
 
-Platforms & Languagues 
+<!-- About me -->
+
+## 💪Skills
+
+### Platforms & Languagues 
 
 <p>
 <img src="https://img.shields.io/badge/C Sharp-239120?style=flat-square&logo=C Sharp&logoColor=white"/>
