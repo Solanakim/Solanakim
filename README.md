@@ -2,7 +2,7 @@
 
 <!-- About me -->
 <p>
-<a href="https://www.linkedin.com/in/Solanakim/" target="_blank"><img src="https://img.shields.io/badge/HansolKim-0A66C2?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/Solanakim/" target="_blank"><img src="https://img.shields.io/badge/Linkedin-0A66C2?style=flat-square&logo=Linkedin&logoColor=white"/></a>
 <a href="https://www.instagram.com/myanalogstory_/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 </P>
 
