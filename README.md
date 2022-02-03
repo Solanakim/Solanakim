@@ -7,8 +7,11 @@
 </P>
 
 <p>
-Hello there! I am a Junior Full Stack Developer using C#, Asp.net and Asp.net Core.
+Hello there! 
 
+I am a Junior Full Stack Developer using C#, Asp.net and Asp.net Core.  
+From South Korea, working in Finland.  
+  
 I like taking photos with my film Camera! Check out my Instagram page. 📷
 </p>
 
